@@ -1,1 +1,2 @@
-This program goes to a safe scraping website and allows the user to scrape quotes and input them into a CSV. I used this program to learn about scraping basics.
+# Quote Scraper
+A beginner-friendly scraper that pulls quotes from quotes.toscrape.com and saves them to a CSV file. I used this project to get comfortable with scraping fundamentals and working with file output in Python.
